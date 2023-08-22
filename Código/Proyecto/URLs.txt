@@ -1,0 +1,5 @@
+https://es.wikipedia.org/wiki/Hola_mundo
+https://www.youtube.com/
+https://ellibrodepython.com/
+https://www.tutorialspoint.com/lisp/index.htm
+https://www.tutorialspoint.com/prolog/index.htm
